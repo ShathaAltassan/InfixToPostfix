@@ -1,5 +1,4 @@
 # Infix to Postfix Conversion Program
-<img width="263" alt="image" src="https://github.com/ShathaAltassan/InfixToPostfix/assets/139460879/24b655f4-709a-4442-a8c0-058895ee39ff">
 
 This C++ program converts infix expressions to postfix notation using a stack-based approach. It is designed for educational purposes and as a demonstration of data structure concepts. 
 
